@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="91c4a460-7493-4f9d-9eda-bc24cc33c9ab" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/.cz-config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env.development" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env.production" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.husky/commit-msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.husky/pre-commit" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README-en.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auto-imports.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commitlint.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devNote.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/CNAME" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/element-plus-logo-small.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/test/jszip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/test/package.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/test/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/set.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/avatar-default.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/font/iconfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/font/iconfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/font/iconfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/font/iconfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/chinese.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/code.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/owner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/us.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/zan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/logo-vite.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/logo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/noFound/404.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/noFound/404_cloud.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Breadcrumb/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Editor/codeJson.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Editor/richEditor.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Editor/tuiEditor.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Hamburger/Hamburger.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/HelloWorld.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/LangSwitch/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Search/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/WorldMap.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/icon.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/icons/home-filled.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config/settings.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/directive/clipboard/clipboard.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/directive/permission.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/useExportExcel.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/useFetch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/useFiles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/useResize.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layout/components/AppMain.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layout/components/Navbar.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layout/components/RightSetting/RightDrawer.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layout/components/RightSetting/contentArea/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layout/components/RightSetting/themePick/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layout/components/Sidebar/Item.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layout/components/Sidebar/Logo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layout/components/Sidebar/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layout/components/Sidebar/link.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layout/components/Sidebar/sidebarItem.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layout/components/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layout/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mock/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/modules/Setting/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/modules/Setting/types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/modules/app/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/modules/app/types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/modules/message/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/modules/message/types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/modules/permission/api.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/modules/permission/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/modules/permission/types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/modules/tabs/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/modules/tabs/types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/element-ui.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/element/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/icons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/mixin.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/sidebar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/transition.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/test1.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/aes.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/clipboard.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/color.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/constant/config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/getStyleTemplate.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/request.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/screen.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/transferToBlob.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/validate.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/writeNewStyle.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Calendar/event-utils.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Calendar/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/CopyText/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Cropper/cropFile.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Dashboard/analysis.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Dashboard/useInitEcharts.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Dashboard/useInitG2.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Dashboard/useInitLineCharts.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Dashboard/useInitPieCharts.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Dashboard/workplace.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Editor/jsonEditor.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Editor/markdownEditor.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Editor/richEditor.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Excel/exportExcel.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Excel/uploadExcel.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Excel/useExportExcel.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Excel/useReadExcel.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Form/advanceForm.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Form/formInfo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Form/stepForm.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Guide/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Guide/step.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Home/api/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Home/home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Home/useInitChart.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Home/useInitLineChart.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Home/useInitPolorChart.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Login/api/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Login/components/forgetPassword.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Login/components/loginForm.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Login/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Menu/menuEdits.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Menu/menuManage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Menu/menuNew.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Personal/api/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Personal/components/elCalendar/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Personal/components/fullCalendar/event-utils.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Personal/components/fullCalendar/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Personal/personalCenter.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Personal/personalSetting.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Role/api/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Role/rolesEdit.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Role/rolesManage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Role/rolesNew.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Table/tableList.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Zip/exportZip.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/dragable/components/pinnedCard.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/dragable/dragableComponent.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/noFound.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/qrcode/qrcodeGen.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typing.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vite.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.browserslistrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lint-staged.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layout/component/aside/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layout/component/aside/style.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layout/component/header/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layout/component/header/style.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layout/component/logo/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layout/main/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layout/main/style.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/router/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shims-vue.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/menu.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/global.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/size.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/types/menuStore.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/home.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="gupqkg8d" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="28mPDsDPMcC0Vd6O3NFB5wn5Ney" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "js.linters.configure.manually.selectedeslint": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.selected.package.eslint": "/Users/cander/code/c-low-code/node_modules/eslint",
+    "node.js.selected.package.standard": "",
+    "nodejs_package_manager_path": "yarn",
+    "settings.editor.selected.configurable": "settings.javascript.linters.eslint",
+    "ts.external.directory.path": "/Users/cander/code/c-low-code/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="91c4a460-7493-4f9d-9eda-bc24cc33c9ab" name="变更" comment="" />
+      <created>1651818670542</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651818670542</updated>
+      <workItem from="1651818671727" duration="245000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

@@ -1,19 +1,35 @@
 module.exports = {
-  root: true,
   env: {
+    browser: true,
+    es2021: true,
+    commonjs: true,
+    es6: true,
     node: true,
   },
-  extends: [
-    "plugin:vue/vue3-essential",
-    "eslint:recommended",
-    "@vue/typescript/recommended",
-    "plugin:prettier/recommended",
-  ],
+  extends: ['airbnb-base', 'eslint:recommended', 'plugin:vue/vue3-recommended','prettier'],
   parserOptions: {
-    ecmaVersion: 2020,
+    ecmaVersion: 12,
+    parser: '@typescript-eslint/parser',
+    sourceType: 'module',
   },
+  plugins: ['vue', '@typescript-eslint'],
   rules: {
-    "no-console": process.env.NODE_ENV === "production" ? "warn" : "off",
-    "no-debugger": process.env.NODE_ENV === "production" ? "warn" : "off",
+    'import/no-unresolved': 'off',
+    'import/extensions': 'off',
+    'import/no-absolute-path': 'off',
+    'import/no-extraneous-dependencies': 'off',
+    'vue/no-multiple-template-root': 'off',
+    'vue/html-self-closing': 'off',
+    // "consistent-return":"off",  // 返回类型一致性
+    'no-console': 'off',
+    'no-plusplus':'off',
+    'no-bitwise':'off',
+    'no-param-reassign': [
+      'error',
+      {
+        props: true,
+        ignorePropertyModificationsFor: ['state', 'config'],
+      },
+    ],
   },
 };
