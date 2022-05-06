@@ -1,8 +1,8 @@
 import { defineComponent } from "vue";
 
 export default defineComponent({
-  name: "layout-component",
+  name: "layout-logo",
   setup() {
-    return () => <header>我是头部</header>;
+    return () => <div class="logo-wrap">logo</div>;
   },
 });
